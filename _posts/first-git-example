@@ -1,0 +1,4 @@
+//printing username//
+var username = prompt();
+console.log(username);
+alert(username); 
